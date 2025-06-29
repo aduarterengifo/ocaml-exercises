@@ -19,7 +19,7 @@
  (name exercises)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml)
+ (depends ocaml core ppx_inline_test ppx_assert)
  (tags
   ("add topics" "to describe" your project)))
 
